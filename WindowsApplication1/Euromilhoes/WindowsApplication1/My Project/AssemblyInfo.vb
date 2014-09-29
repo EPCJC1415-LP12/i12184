@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revise os valores dos atributos do assembly
 
-<Assembly: AssemblyTitle("Euromilhoes")> 
+<Assembly: AssemblyTitle("WindowsApplication1")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("Euromilhoes")> 
+<Assembly: AssemblyProduct("WindowsApplication1")> 
 <Assembly: AssemblyCopyright("Copyright ©  2014")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'O GUID a seguir é para o ID da typelib se este projeto for exposto para COM
-<Assembly: Guid("f037a31d-b1fd-42aa-b497-0793e4869b9b")> 
+<Assembly: Guid("1bf0016b-cc37-43a7-a06d-878f8869c1c3")> 
 
 ' Informação de versão para um assembly consiste nos quatro valores a seguir:
 '
